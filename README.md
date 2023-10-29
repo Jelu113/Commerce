@@ -6,11 +6,7 @@
 -[Installation](#installation)  
 -[Usage](#usage)  
 -[Credits](#credits)  
--[License](#license)  
--[Badges](#badges)  
--[Features](#features)  
--[How to contribute](#contribute)  
--[Tests](#tests)  
+
 
  ## Description
  https://github.com/Jelu113/Commerce
